@@ -1,0 +1,11 @@
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C#_Fundamentals_I\bin\Debug\netcoreapp2.2\C#_Fundamentals_I.deps.json
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C#_Fundamentals_I\bin\Debug\netcoreapp2.2\C#_Fundamentals_I.runtimeconfig.json
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C#_Fundamentals_I\bin\Debug\netcoreapp2.2\C#_Fundamentals_I.runtimeconfig.dev.json
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C#_Fundamentals_I\bin\Debug\netcoreapp2.2\C#_Fundamentals_I.dll
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C#_Fundamentals_I\bin\Debug\netcoreapp2.2\C#_Fundamentals_I.pdb
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C#_Fundamentals_I\obj\Debug\netcoreapp2.2\C#_Fundamentals_I.csprojAssemblyReference.cache
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C#_Fundamentals_I\obj\Debug\netcoreapp2.2\C#_Fundamentals_I.csproj.CoreCompileInputs.cache
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C#_Fundamentals_I\obj\Debug\netcoreapp2.2\C#_Fundamentals_I.AssemblyInfoInputs.cache
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C#_Fundamentals_I\obj\Debug\netcoreapp2.2\C#_Fundamentals_I.AssemblyInfo.cs
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C#_Fundamentals_I\obj\Debug\netcoreapp2.2\C#_Fundamentals_I.dll
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C#_Fundamentals_I\obj\Debug\netcoreapp2.2\C#_Fundamentals_I.pdb
